@@ -5,4 +5,4 @@ __pycache__/
 mlflow-lab-env/
 eval_report.json
 feature_importance.png
-training_curve.png
+training_curve.png 
