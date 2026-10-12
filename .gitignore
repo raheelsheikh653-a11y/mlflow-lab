@@ -1,0 +1,8 @@
+mlruns/
+mlflow.db
+mlflow ui
+__pycache__/
+*.pyc
+eval_report.json
+feature_importance.png
+training_curve.png
